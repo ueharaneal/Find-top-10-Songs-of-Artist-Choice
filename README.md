@@ -3,4 +3,4 @@ Using the Spotify Api, you will be able to input any artist of your choice into 
 
 
 Create a spotify account at https://developer.spotify.com/documentation/web-api.
-Once the account is created you will able to find client_ID and client_seceret
+Once the account is created you will able to find client_ID and client_secret
